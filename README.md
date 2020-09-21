@@ -1,0 +1,2 @@
+# ten-years-of-nba-data
+Using ten NBA seasons of NBA data from 2010-2019 to practice web scrapping, data cleaning, and wrangling. The scrapped information includes teams, coaches, champions, and players. Some of this data is going to be used for a finals winner prediction project. This repository will therefore highlight how to clean data and make notes about why certain decisions about missing data were made.
